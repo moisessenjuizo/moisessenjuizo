@@ -25,5 +25,6 @@ Eu me chamo Moises Ferreira e eu moro no Brasil.
  <a href="https://github.com/moisessenjuizo/moisessenjuizo">
   <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=moisessenjuizo&layout=compact&langs_count=8&theme=dark&hide=css,scss"/>
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=moisessenjuizo&show_icons=true&theme=dark&include_all_commits=true&count_private=true&number_format=long"/>
-  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moisessenjuizo&layout=compact)](https://github.com/moisessenjuizo/github-readme-stats)
+
 </a>
