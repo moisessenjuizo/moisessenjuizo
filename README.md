@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=mooisessenjuizo&style=for-the-badge-square) [](https://github.com/mooisessenjuizo)
 ## Sobre mim
 Eu me chamo Moises Ferreira e eu moro no Brasil.
-- Eu comecei a estudar JS recentemente.
+- Eu estou estudando JS e PHP.
 - Meu esporte favorito é Musculação.
 
 ## Minhas redes sociais 
